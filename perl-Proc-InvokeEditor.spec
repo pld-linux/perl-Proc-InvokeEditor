@@ -7,13 +7,13 @@
 %include	/usr/lib/rpm/macros.perl
 Summary:	Proc::InvokeEditor - Perl extension for starting a text editor
 Name:		perl-Proc-InvokeEditor
-Version:	1.07
+Version:	1.13
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Proc/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	9c7ace407100f1e0272865c07dc7aaea
+# Source0-md5:	26595c1e1c80ed64f0fb97cceea7e167
 URL:		http://search.cpan.org/dist/Proc-InvokeEditor/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
