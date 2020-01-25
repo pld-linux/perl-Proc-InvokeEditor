@@ -4,7 +4,6 @@
 #
 %define		pdir	Proc
 %define		pnam	InvokeEditor
-%include	/usr/lib/rpm/macros.perl
 Summary:	Proc::InvokeEditor - Perl extension for starting a text editor
 Name:		perl-Proc-InvokeEditor
 Version:	1.13
